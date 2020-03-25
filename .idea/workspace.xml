@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d8628e15-c226-4688-8525-ff3f33314ed7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/Button.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       <updated>1585131677538</updated>
       <workItem from="1585131680388" duration="2804000" />
       <workItem from="1585134884450" duration="850000" />
-      <workItem from="1585139160944" duration="3668000" />
+      <workItem from="1585139160944" duration="4255000" />
     </task>
     <task id="LOCAL-00001" summary="npm init">
       <created>1585132343495</created>
@@ -106,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585140709659</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="为Button组件添加icon和iconPosition参数">
+      <created>1585143005718</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585143005718</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +126,8 @@
     <MESSAGE value="加入parcel,将g-button组件改为单文件组件" />
     <MESSAGE value="添加.gitignore" />
     <MESSAGE value="添加.gitignore文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加.gitignore文件" />
+    <MESSAGE value="为Button组件添加icon和iconPosition参数" />
+    <option name="LAST_COMMIT_MESSAGE" value="为Button组件添加icon和iconPosition参数" />
   </component>
   <component name="WindowStateProjectService">
     <state x="219" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585132504150">
