@@ -1,0 +1,22 @@
+{
+  "name": "430",
+  "version": "0.0.1",
+  "description": "这是个UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7777ty/making-430-demo-1.git"
+  },
+  "keywords": [
+    "vue.ui"
+  ],
+  "author": "7777ty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/7777ty/making-430-demo-1/issues"
+  },
+  "homepage": "https://github.com/7777ty/making-430-demo-1#readme"
+}
