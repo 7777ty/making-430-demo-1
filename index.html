@@ -10,7 +10,7 @@
             box-sizing: border-box;
         }
 
-        html {
+        :root {
             --button-height: 32px;
             --font-size: 14px;
             --button-bg: white;
@@ -35,14 +35,14 @@
 </head>
 <body>
 <div id="app">
-    <g-button >
+    <g-button  :loading="loading1" @click="loading1=!loading1">
         按钮
     </g-button>
-    <g-button icon="shezhi" icon-position="left">
+    <g-button icon="shezhi" icon-position="left" :loading="loading2" @click="loading2=!loading2">
         按钮
     </g-button>
 
-    <g-button icon="shezhi"  icon-position="right">
+    <g-button icon="shezhi"  icon-position="right" :loading="loading3" @click="loading3=!loading3">
         按钮
     </g-button>
 
