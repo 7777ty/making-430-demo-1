@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8628e15-c226-4688-8525-ff3f33314ed7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Icon.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/Button.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="d8628e15-c226-4688-8525-ff3f33314ed7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +51,7 @@
       <updated>1585131677538</updated>
       <workItem from="1585131680388" duration="2804000" />
       <workItem from="1585134884450" duration="850000" />
-      <workItem from="1585139160944" duration="5292000" />
+      <workItem from="1585139160944" duration="5571000" />
     </task>
     <task id="LOCAL-00001" summary="npm init">
       <created>1585132343495</created>
@@ -124,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585143561020</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="组件化了Icon">
+      <created>1585144660295</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585144660295</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +139,8 @@
     <MESSAGE value="添加.gitignore文件" />
     <MESSAGE value="为Button组件添加icon和iconPosition参数" />
     <MESSAGE value="给予iconPosition默认值，并开启了验证功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="给予iconPosition默认值，并开启了验证功能" />
+    <MESSAGE value="组件化了Icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="组件化了Icon" />
   </component>
   <component name="WindowStateProjectService">
     <state x="219" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585132504150">
@@ -151,10 +151,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="214" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585135431122" />
-    <state x="82" y="113" key="CommitChangelistDialog2" timestamp="1585143559110">
+    <state x="82" y="113" key="CommitChangelistDialog2" timestamp="1585144657647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="82" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585143559110" />
+    <state x="82" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585144657647" />
     <state x="0" y="93" key="DiffContextDialog" timestamp="1585140704177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
