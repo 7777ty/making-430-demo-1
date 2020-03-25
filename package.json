@@ -21,5 +21,8 @@
   "homepage": "https://github.com/7777ty/making-430-demo-1#readme",
   "dependencies": {
     "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
   }
 }

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8628e15-c226-4688-8525-ff3f33314ed7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/button.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585131677538</updated>
-      <workItem from="1585131680388" duration="2429000" />
+      <workItem from="1585131680388" duration="2804000" />
     </task>
     <task id="LOCAL-00001" summary="npm init">
       <created>1585132343495</created>
@@ -75,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585132585757</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="完成按钮基本样式">
+      <created>1585134272666</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585134272666</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,17 +89,22 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="npm init" />
     <MESSAGE value="npm i vue" />
-    <option name="LAST_COMMIT_MESSAGE" value="npm i vue" />
+    <MESSAGE value="完成按钮基本样式" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成按钮基本样式" />
   </component>
   <component name="WindowStateProjectService">
     <state x="219" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585132504150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="219" y="315" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585132504150" />
-    <state x="82" y="113" key="CommitChangelistDialog2" timestamp="1585132584037">
+    <state x="82" y="113" key="CommitChangelistDialog2" timestamp="1585135117096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="82" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585132584037" />
+    <state x="82" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585135117096" />
+    <state x="264" y="276" key="FileChooserDialogImpl" timestamp="1585134485500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="264" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585134485500" />
     <state x="298" y="249" key="RollbackChangesDialog" timestamp="1585132572373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
