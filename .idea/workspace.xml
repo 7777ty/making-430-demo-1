@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8628e15-c226-4688-8525-ff3f33314ed7" name="Default Changelist" comment="">
+    <list default="true" id="d8628e15-c226-4688-8525-ff3f33314ed7" name="Default Changelist" comment="安装了单元测试chai">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +57,7 @@
       <workItem from="1585131680388" duration="2804000" />
       <workItem from="1585134884450" duration="850000" />
       <workItem from="1585139160944" duration="6619000" />
-      <workItem from="1585195750113" duration="3392000" />
+      <workItem from="1585195750113" duration="5649000" />
     </task>
     <task id="LOCAL-00001" summary="npm init">
       <created>1585132343495</created>
@@ -169,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585198898111</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="安装了单元测试chai">
+      <created>1585199329081</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1585199329081</updated>
+    </task>
+    <task id="LOCAL-00018" summary="添加了四个测试用例 第五个还不会 需要使用mock">
+      <created>1585201216927</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1585201216928</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,7 +208,8 @@
     <MESSAGE value="检测Buttongroup的子元素应该是button" />
     <MESSAGE value="Button-group中的第一个像素不需要margin-left第一像素" />
     <MESSAGE value="安装了单元测试chai" />
-    <option name="LAST_COMMIT_MESSAGE" value="安装了单元测试chai" />
+    <MESSAGE value="添加了四个测试用例 第五个还不会 需要使用mock" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了四个测试用例 第五个还不会 需要使用mock" />
   </component>
   <component name="WindowStateProjectService">
     <state x="219" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585132504150">
@@ -203,10 +220,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="214" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585135431122" />
-    <state x="82" y="113" key="CommitChangelistDialog2" timestamp="1585198896824">
+    <state x="82" y="113" key="CommitChangelistDialog2" timestamp="1585201820752">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="82" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585198896824" />
+    <state x="82" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585201820752" />
     <state x="0" y="93" key="DiffContextDialog" timestamp="1585140704177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -18,6 +18,8 @@ new Vue({
 
 
 import chai from 'chai';
+import spies from 'chai-spies';
+chai.use(spies);
 
 const expect = chai.expect;
 
@@ -110,11 +112,10 @@ const expect = chai.expect;
         }
     });
     vm.$mount();
-    vm.$on('click',function () {
-        expect(1).to.eq(1)
+    const spy = chai.spy(function () {
     });
-    let button =vm.$el;
+    vm.$on('click', spy);
+    let button = vm.$el;
     button.click();
-    button.$el.remove();
-    button.$destroy()
+    expect(spy).to.have.been.called();
 }
