@@ -54,7 +54,7 @@
       <workItem from="1585131680388" duration="2804000" />
       <workItem from="1585134884450" duration="850000" />
       <workItem from="1585139160944" duration="6619000" />
-      <workItem from="1585195750113" duration="1424000" />
+      <workItem from="1585195750113" duration="1740000" />
     </task>
     <task id="LOCAL-00001" summary="npm init">
       <created>1585132343495</created>
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585196959011</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="检测Buttongroup的子元素应该是button">
+      <created>1585197380987</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1585197380987</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +174,8 @@
     <MESSAGE value="添加按键的loading状态" />
     <MESSAGE value="添加按钮click事件" />
     <MESSAGE value="创建了Button-group" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建了Button-group" />
+    <MESSAGE value="检测Buttongroup的子元素应该是button" />
+    <option name="LAST_COMMIT_MESSAGE" value="检测Buttongroup的子元素应该是button" />
   </component>
   <component name="WindowStateProjectService">
     <state x="219" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585132504150">
@@ -178,10 +186,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="214" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585135431122" />
-    <state x="82" y="113" key="CommitChangelistDialog2" timestamp="1585196957182">
+    <state x="82" y="113" key="CommitChangelistDialog2" timestamp="1585197379362">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="82" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585196957182" />
+    <state x="82" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585197379362" />
     <state x="0" y="93" key="DiffContextDialog" timestamp="1585140704177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
