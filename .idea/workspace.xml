@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8628e15-c226-4688-8525-ff3f33314ed7" name="Default Changelist" comment="安装了单元测试chai">
+    <list default="true" id="d8628e15-c226-4688-8525-ff3f33314ed7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/button.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Button.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/Button.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +61,7 @@
       <workItem from="1585134884450" duration="850000" />
       <workItem from="1585139160944" duration="6619000" />
       <workItem from="1585195750113" duration="5649000" />
+      <workItem from="1585201605011" duration="3681000" />
     </task>
     <task id="LOCAL-00001" summary="npm init">
       <created>1585132343495</created>
@@ -185,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585201216928</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="完成了第五个测试（mock）">
+      <created>1585201822892</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585201822892</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,13 +220,14 @@
     <MESSAGE value="Button-group中的第一个像素不需要margin-left第一像素" />
     <MESSAGE value="安装了单元测试chai" />
     <MESSAGE value="添加了四个测试用例 第五个还不会 需要使用mock" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加了四个测试用例 第五个还不会 需要使用mock" />
+    <MESSAGE value="完成了第五个测试（mock）" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成了第五个测试（mock）" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="219" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585132504150">
+    <state x="219" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585202559585">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="219" y="315" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585132504150" />
+    <state x="219" y="315" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585202559585" />
     <state x="214" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585135431122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
