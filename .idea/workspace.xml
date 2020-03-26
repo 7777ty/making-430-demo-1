@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8628e15-c226-4688-8525-ff3f33314ed7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Button-group.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Button-group.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/Button-group.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -57,7 +54,7 @@
       <workItem from="1585131680388" duration="2804000" />
       <workItem from="1585134884450" duration="850000" />
       <workItem from="1585139160944" duration="6619000" />
-      <workItem from="1585195750113" duration="1177000" />
+      <workItem from="1585195750113" duration="1424000" />
     </task>
     <task id="LOCAL-00001" summary="npm init">
       <created>1585132343495</created>
@@ -143,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585145758809</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="创建了Button-group">
+      <created>1585196959011</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585196959011</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +166,8 @@
     <MESSAGE value="组件化了Icon" />
     <MESSAGE value="添加按键的loading状态" />
     <MESSAGE value="添加按钮click事件" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加按钮click事件" />
+    <MESSAGE value="创建了Button-group" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建了Button-group" />
   </component>
   <component name="WindowStateProjectService">
     <state x="219" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585132504150">
@@ -189,13 +194,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="298" y="249" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585132572373" />
-    <state x="0" y="163" key="SettingsEditor" timestamp="1585132727596">
+    <state x="0" y="163" key="SettingsEditor" timestamp="1585197314413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585132727596" />
-    <state x="147" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1585196311196">
+    <state x="0" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585197314413" />
+    <state x="147" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1585197324523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="147" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585196311196" />
+    <state x="147" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585197324523" />
   </component>
 </project>
