@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8628e15-c226-4688-8525-ff3f33314ed7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Button-group.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/Button-group.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,7 +54,7 @@
       <workItem from="1585131680388" duration="2804000" />
       <workItem from="1585134884450" duration="850000" />
       <workItem from="1585139160944" duration="6619000" />
-      <workItem from="1585195750113" duration="1740000" />
+      <workItem from="1585195750113" duration="2902000" />
     </task>
     <task id="LOCAL-00001" summary="npm init">
       <created>1585132343495</created>
@@ -154,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585197380987</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Button-group中的第一个像素不需要margin-left第一像素">
+      <created>1585197547812</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1585197547812</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +182,8 @@
     <MESSAGE value="添加按钮click事件" />
     <MESSAGE value="创建了Button-group" />
     <MESSAGE value="检测Buttongroup的子元素应该是button" />
-    <option name="LAST_COMMIT_MESSAGE" value="检测Buttongroup的子元素应该是button" />
+    <MESSAGE value="Button-group中的第一个像素不需要margin-left第一像素" />
+    <option name="LAST_COMMIT_MESSAGE" value="Button-group中的第一个像素不需要margin-left第一像素" />
   </component>
   <component name="WindowStateProjectService">
     <state x="219" y="315" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585132504150">
@@ -186,10 +194,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="214" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585135431122" />
-    <state x="82" y="113" key="CommitChangelistDialog2" timestamp="1585197379362">
+    <state x="82" y="113" key="CommitChangelistDialog2" timestamp="1585197546705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="82" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585197379362" />
+    <state x="82" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585197546705" />
     <state x="0" y="93" key="DiffContextDialog" timestamp="1585140704177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -202,13 +210,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="298" y="249" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585132572373" />
-    <state x="0" y="163" key="SettingsEditor" timestamp="1585197314413">
+    <state x="0" y="163" key="SettingsEditor" timestamp="1585197643459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="0" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585197314413" />
-    <state x="147" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1585197324523">
+    <state x="0" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585197643459" />
+    <state x="147" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1585197571552">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="147" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585197324523" />
+    <state x="147" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585197571552" />
   </component>
 </project>
